@@ -1,0 +1,115 @@
+body {
+    background-color: bisque;
+}
+
+.divt {
+    width: 80px;
+    height: 40px;
+    background-color: white;
+    line-height: 40px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.divt:active {
+    scale: 0.9;
+}
+
+.div1 {
+    width: 400px;
+    height: 700px;
+    background-color: cadetblue;
+    margin: -60px 550px;
+    border-radius: 15px;
+    position: relative;
+}
+
+.divp{
+    text-align: center;
+    margin-top: 440px;
+}
+p{
+    margin: 0;
+}
+
+h1 {
+    position: absolute;
+    padding: 10px;
+    font-size: 50px;
+    top: 40px;
+    left: 95px;
+}
+
+.p1 {
+    position: absolute;
+    font-size: 30px;
+    top: 130px;
+    left: 30px;
+}
+
+.p2 {
+    position: absolute;
+    font-size: 30px;
+    top: 210px;
+    left: 30px;
+}
+.p3{
+    position: absolute;
+    font-size: 30px;
+    top: 290px;
+    left: 30px;
+}
+
+.input1 {
+    position: absolute;
+    top: 170px;
+    left: 30px;
+    width: 340px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+.input2 {
+    position: absolute;
+    top: 250px;
+    left: 30px;
+    width: 340px;
+    height: 30px;
+    border-radius: 6px;
+}
+.input3 {
+    position: absolute;
+    top: 330px;
+    left: 30px;
+    width: 340px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+.btn {
+    position: absolute;
+    top: 380px;
+    left: 140px;
+    font-size: 40px;
+    background-color: white;
+}
+
+.perror {
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.pok {
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    padding-top: 10px;
+}

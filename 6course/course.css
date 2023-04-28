@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+.divt {
+  width: 80px;
+  height: 40px;
+  background-color: white;
+  line-height: 40px;
+  text-align: center;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+.divt:active {
+  scale: 0.9;
+}
+
+.div1 {
+  display: flex;
+  justify-content: center;
+  padding: 150px 0;
+}
+
+.div2 {
+  width: 500px;
+  height: 300px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  font-size: 70px;
+  border-radius: 20px;
+  line-height: 300px;
+  text-align: center;
+}
+
+.div2:active {
+  scale: 0.9;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}/*# sourceMappingURL=course.css.map */
